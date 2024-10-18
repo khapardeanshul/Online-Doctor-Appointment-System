@@ -1,3 +1,9 @@
+This is a web application which is developed using PHP, JavaScript and
+SQL. It typically involves a user-friendly interface where patients can
+select a preferred doctor, choose a convenient time slot, and make
+reservations without the need for phone calls.
+
+
 Please Read this :-
 
 to start the project you have to go to applicationlayer (FOLDER) and open the Doctorpatient.php
